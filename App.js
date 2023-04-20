@@ -12,7 +12,6 @@ const App = () => {
     </Provider>
   );
 };
-
 export default App;
 const styles = StyleSheet.create({
   sectionContainer: {
